@@ -9,3 +9,7 @@ Run Migrations
 Make a new migration
 
 -   `npx knex migrate:make nombreMigration`
+
+Run the server
+
+-   `npm run server`
